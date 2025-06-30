@@ -1,6 +1,6 @@
 # 🧪 Demoblaze Manual Test Cases
 
-This repository contains a detailed set of **50 unique manual test cases** written for the [Demoblaze](https://www.demoblaze.com/) demo e-commerce website. These test cases cover a wide range of functionalities including login, signup, product listing, cart operations, UI validations, and more.
+This repository contains a detailed set of **manual test cases** written for the [Demoblaze](https://www.demoblaze.com/) demo e-commerce website. These test cases cover a wide range of functionalities including login, signup, product listing, cart operations, UI validations, and more.
 
 ---
 
